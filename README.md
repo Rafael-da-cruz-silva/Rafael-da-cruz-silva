@@ -7,7 +7,6 @@ Apaixonado por tecnologia💻
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-da-cruz-silva-0b485b21a/)
  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RafaelDCS03)
 
- ![Rafael-da-cruz-silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-da-cruz-silva&show_icons=true&theme=dracula)
 
  ## Tecnologias que eu uso no meu dia
  <div style="display : inline_block"><br/>
